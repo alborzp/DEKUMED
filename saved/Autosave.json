@@ -1,0 +1,26 @@
+{
+    "shapes": [
+        {
+            "name": "shaoe13",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "name": "manu",
+            "x": 0,
+            "y": -10
+        },
+        {
+            "name": "shaoe13",
+            "x": -10,
+            "y": -10
+        },
+        {
+            "name": "manu",
+            "x": 0,
+            "y": -10
+        }
+    ],
+    "xValueSlider": 10,
+    "yValueSlider": 10
+}

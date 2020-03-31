@@ -1,0 +1,16 @@
+{
+    "shapes": [
+        {
+            "name": "shape10",
+            "x": -39,
+            "y": -37
+        },
+        {
+            "name": "manu",
+            "x": -10,
+            "y": -13
+        }
+    ],
+    "xValueSlider": 1,
+    "yValueSlider": 1
+}
